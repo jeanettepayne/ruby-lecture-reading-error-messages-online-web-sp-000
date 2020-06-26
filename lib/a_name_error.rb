@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world
+runs "hello_world" end
