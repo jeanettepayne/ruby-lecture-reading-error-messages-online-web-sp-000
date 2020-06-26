@@ -1,3 +1,3 @@
 x = 1
 
-x "is the loneliest number"
+x = 3
